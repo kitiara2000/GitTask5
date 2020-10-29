@@ -8,11 +8,11 @@ public void Metod3.2() {};
 
 private int Metod4.2(j) {};
 
-public void Metod1.1() {
+public void Metod1.2() {
 	
 };
 
-privat int Metod2.1(arg){
+privat int Metod2.2(arg){
 	
 };
 
